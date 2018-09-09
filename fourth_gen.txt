@@ -1,0 +1,38 @@
+                               Fourth Generation (1971-1980) 
+                       Microprocessors Are the Start of Modern Computers
+
+The fourth generation computers was developed using microprocessor. Intel 4004 chip was the first microprocessor developed in 1971. The microprocessor is a silicon chip contains millions of transistors that was designed using LSI and VLSI technology. 
+The fourth generation computers used LSI (Large Scale Integration) and VLSI (Very Large Scale Integration) technology. Using LSI and VLSI technology thousands of transistors are integrated on a small silicon chip. In fourth generation computers the semiconductor memory is replaced by magnetic core memory resulting in fast random access to memory.
+The instructions to the computer were written in high level language instead of machine language and assembly language.
+
+Advantages
+More reliable than previous generation computers.
+Perform calculations in Picoseconds.
+Consumes less power than the previous generation computers.
+No air conditioning is required.
+Totally general purpose.
+Cost is low compared to the previous generation computers.
+All types of high level languages is used for fourth generation computers.
+Maintenance cost is low compared to the previous generation computers.
+Fourth generation computers are portable.
+Generates less heat than the previous generation computers.
+Learning high level language is easier than assembly and machine language.
+
+One disadvantage is that latest technology is required for manufacturing of microprocessors. 
+
+What defines generation 4?
+Characteristics of the fourth generation include:
+Much Less Expensive
+More Portable
+Much Smaller Size
+Usage of the Internet
+Computers were More Easily Available to Everyone; PCs
+BASIC Computer Language
+Computer Mouse and GUI make Computers More Personable
+
+Some Computers of the fourth generation include:
+ALTAIR 8800
+Apple I
+Apple II series
+Macintosh
+IBM PC
